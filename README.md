@@ -26,4 +26,4 @@ The dashboard includes:
 * Slicers: Outlet Location Type, Outlet Size, and Item Type for interactive filtering
 
 Dashboard / Screenshots:
-Example: 
+Example: (https://github.com/ajeetrana09/Blinkit-Dashboard/blob/main/Blinkit.png)

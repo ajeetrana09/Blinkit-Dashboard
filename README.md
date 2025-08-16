@@ -18,10 +18,10 @@ The dashboard includes:
 * KPI Cards: Total Sales, Total Items, Average Sales, and Average Rating
 
 * Visuals:
-      * Line chart for sales trends by outlet establishment year
-      * Donut charts for outlet size distribution and fat content comparison
-      * Bar charts for sales by item type and location type
-      * Matrix table for outlet type-wise comparison (Grocery vs. Supermarkets)
+    * Line chart for sales trends by outlet establishment year
+    * Donut charts for outlet size distribution and fat content comparison
+    * Bar charts for sales by item type and location type
+    * Matrix table for outlet type-wise comparison (Grocery vs. Supermarkets)
 
 * Slicers: Outlet Location Type, Outlet Size, and Item Type for interactive filtering
 
